@@ -1,0 +1,8 @@
+What's the amount borrowed?  270000
+What's the annual interest rate?  5.125
+
+Amount borrowed (user input) = $270000
+Interest rate (user input) = 5.125%
+Payback period (programmer input) = 30 Years
+Monthly Payment (output) = $1470.11
+
